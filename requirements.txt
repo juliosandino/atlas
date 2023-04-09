@@ -1,0 +1,2 @@
+# Python packages needed to run application
+Django
