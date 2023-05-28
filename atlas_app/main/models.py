@@ -1,3 +1,6 @@
 from django.db import models
+from django.urls import reverse
 
-# Create your models here.
+class Photo(models.Model):
+    """Class defining photo model"""
+    
